@@ -1,0 +1,58 @@
+
+JULEGAVER INFORMATION:
+____________________________________
+is soft: true
+is rectangular: true
+does rattle: true
+
+could be lego 😄
+
+JULEGAVER INFORMATION:
+____________________________________
+is soft: false
+is rectangular: true
+does rattle: true
+
+JULEGAVER INFORMATION:
+____________________________________
+is soft: false
+is rectangular: false
+does rattle: true
+
+JULEGAVER INFORMATION:
+____________________________________
+is soft: false
+is rectangular: false
+does rattle: true
+
+JULEGAVER INFORMATION:
+____________________________________
+is soft: false
+is rectangular: false
+does rattle: true
+
+JULEGAVER INFORMATION:
+____________________________________
+is soft: true
+is rectangular: true
+does rattle: true
+
+could be lego 😄
+
+JULEGAVER INFORMATION:
+____________________________________
+is soft: false
+is rectangular: true
+does rattle: false
+
+JULEGAVER INFORMATION:
+____________________________________
+is soft: true
+is rectangular: false
+does rattle: false
+
+JULEGAVER INFORMATION:
+____________________________________
+is soft: true
+is rectangular: false
+does rattle: false

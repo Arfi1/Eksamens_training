@@ -1,0 +1,9 @@
+
+Your BMI is: 4628.099173553719
+Normal weight: false
+Over weight: true
+Under weight: false
+Your BMI is: 23.875114784205696
+Normal weight: true
+Over weight: false
+Under weight: false
